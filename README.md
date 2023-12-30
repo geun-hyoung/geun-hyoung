@@ -1,5 +1,9 @@
 ### Hi there 👋
-![geun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun-hyoung&show_icons=true&theme=radical)
+![geun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun-hyoung&show_icons=true&theme=shadow_blue )
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
