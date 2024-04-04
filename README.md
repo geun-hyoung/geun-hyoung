@@ -1,4 +1,4 @@
-![header](https://geun-hyeong.vercel.app/api?type=RECT&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://geun-hyeong.vercel.app/api?type=Wave&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
 ![geun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun-hyoung&show_icons=true&theme=shadow_blue )
 
 
