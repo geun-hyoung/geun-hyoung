@@ -2,6 +2,10 @@
 type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+[![geun's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/geun-hyoung/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
