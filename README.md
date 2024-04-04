@@ -1,8 +1,5 @@
-### Hi there 👋
+![header](https://geun-hyeong.vercel.app/api?type=wave&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
 ![geun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun-hyoung&show_icons=true&theme=shadow_blue )
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 
 
 - 🔭 I’m currently working on ...
